@@ -5,4 +5,4 @@ UiFaderPro is designed to make fading your UI as simple as possible. By attachin
 ![](https://github.com/QFSW/Unity-UiFaderPro/blob/master/Preview.gif)
 
 #How to Use It
-To use it, simply add the script to each Canvas or root GameObject of the GUI you would like to add fading too (an object with a CanvasController may still have CanvasControllers in the children object for individual control, but it is not necessary if you only want to fade in or out the entire thing). If AutoFade is ticked, then it will automatically fade in when activated. To use the cross fading, replace you SetActive calls with FadeIn and FadeOut.
+To use it, simply add the script to each Canvas or root GameObject of the GUI you would like to add fading too (an object with a CanvasController may still have CanvasControllers in the children object for individual control, but it is not necessary if you only want to fade in or out the entire thing). If AutoFade is ticked, then it will automatically fade in when activated. To use the cross fading, replace your SetActive calls with FadeIn and FadeOut.
