@@ -1,4 +1,4 @@
-#UiFaderPro V1.0.0
+# UI Fader Pro V1.0.0
 
 UiFaderPro is designed to make fading your UI as simple as possible. By attaching a single component to your Canvas or root GameObject, all elements of the tree will automatically be faded in when activated, and automatically faded out when using CanvasControllerInstance.FadeOut(). It is highly versatile and easy to use, with little to no effort required to add to an existing scene.
 
